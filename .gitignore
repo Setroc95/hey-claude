@@ -1,0 +1,8 @@
+sessions/
+logs/
+uploads/
+node_modules/
+.DS_Store
+*.zip
+screens/
+voice-config.json
